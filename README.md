@@ -20,12 +20,11 @@
 
 **目前仅支持链接引用图片的形式进行使用**
 
-自建网站一般都通过调用图片的形式修改网站鼠标样式
-通过cdn生成的网络连接可以直接引入png格式的图片，添加进各种网站配置文件当中
+自建网站一般都通过调用图片的形式修改网站鼠标样式  通过cdn生成的网络连接可以直接引入png格式的图片，添加进各种网站配置文件当中
 
 > 测试通过 [`Hexo`](https://hexo.io/) 驱动 [`yun`](https://github.com/YunYouJun/hexo-theme-yun) 主题配置
 
-使用链接实例
+使用链接示例
 
 ```bash
 # 默认大小 默认鼠标样式/Size normal Default
@@ -82,15 +81,20 @@ https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow/LikeyArrow/Size-尺寸[ligh
 
 #### style-kuma
 
-为Kuuhaku私人订制了属于他的风格配色鼠标方案
-全透明+阴影形式的default样式以及适应网站配色的黄绿色link样式
-因为**懒**，只更改这两项
-（我可没说到底是谁懒）
+为Kuuhaku私人订制了属于他的风格配色鼠标方案  全透明+阴影形式的default样式以及适应网站配色的黄绿色link样式  因为**懒**，只更改这两项  （我可没说到底是谁懒）
 
-> 缺少绿色，就好像缺了点什么? —— Kuuhaku
-> 够了，我用的是黄绿色，还有这个颜色明明是你要求的。 —— Like
+```bash
+# default
+https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow/LikeyArrow-style-kuma/Default.png
+# Link
+https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow/LikeyArrow-style-kuma/Link.png
+# Handwriting
+https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow/LikeyArrow-style-kuma/Handwriting.png
+```
 
-## 设计参数
+> 阴影不透明度设置成60，祝你门门都及格 —— Like  那我谢谢你 —— Kuuhaku
+
+## 标准设计参数
 
 - Size: 
   - light 25×25px
