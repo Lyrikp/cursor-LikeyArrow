@@ -6,7 +6,7 @@
 <p align="center">I think here should be some English but I forget how to spell fanyongxing</p>
 
 为Lyrikp.art自建网站绘制的一款简单、不透明度、泛用性的替换鼠标
-分别有不同的大小样式，以匹配不同环境下的需求。请按照自己的需求选择样式大小
+分别有不同的大小样式，以匹配不同环境下的需求。请按照自己的需求选择3种样式大小
 
 > 所以不介意的话请时不时来关注一下我的网站 [lyrikp.art](lyrikp.art)
 
@@ -14,7 +14,6 @@
   <span>实际应用：</span>
   <a href="https://lyrikp.art/">Like‘s blog</a>
 </p>
-
 
 ## 指针样式
 
@@ -25,15 +24,36 @@
 - [x] Zoomout 缩小
 - [x] Handwriting 手写
 - [ ] IBeam 选定文本
-- [ ] SizeNS 上下拉伸
-- [ ] SizeEW 左右拉伸
-- [ ] SizeNESW 左下右上
-- [ ] SizeNWSE 左上右下
-- [ ] SizeAll 全方位
+
+----
+
+- [ ] Resize 窗口拉伸
+  - [ ] SizeNS 上下拉伸
+  - [ ] SizeEW 左右拉伸
+  - [ ] SizeNESW 左下右上
+  - [ ] SizeNWSE 左上右下
+  - [ ] SizeAll 全方位
 - [ ] Copy 复制
 - [ ] Cut 剪贴
 - [ ] Help 帮助事项
 - [ ] Wait 加载中
+- [ ] Midroll 中间滚轮
+  - [ ] Rollup 向上滚动
+  - [ ] Rolldown 向下滚动
+  - [ ] RollAll 自由滚动
+
+## 待办事项
+
+- [x] 基础网站搭建可用 `.png` 样式
+- [ ] `.png` 全格式绘制
+- [ ] `.cur` 格式绘制
+- [ ] 投影差分风格
+- [ ] 颜色差分风格
+- [ ] 猫咪差分风格
+- [ ] 动态样式绘制
+- [ ] 切换动画设置
+- [ ] `Windows` 安装脚本 `.inf` 编写
+- [ ] 终极目标： `MacOS` 中更改鼠标样式
 
 ## 设计参数
 
