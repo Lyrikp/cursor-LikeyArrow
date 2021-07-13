@@ -5,7 +5,7 @@
 <p align="center">一款简约风格、不透明度、泛用的隐式可爱替换鼠标ฅ^. .^ฅ</p>
 <p align="center">I think here should be some English but I forget how to spell fanyongxing</p>
 
-为Lyrikp.art自建网站绘制的一款简单、不透明度、泛用性的替换鼠标
+为Lyrikp.art自建网站绘制的一款简单、不透明度、泛用性的替换鼠标  
 分别有不同的大小样式，以匹配不同环境下的需求。请按照自己的需求选择3种样式大小
 
 > 所以不介意的话请时不时来关注一下我的网站 [lyrikp.art](lyrikp.art)
@@ -20,7 +20,8 @@
 
 **目前仅支持链接引用图片的形式进行使用**
 
-自建网站一般都通过调用图片的形式修改网站鼠标样式  通过cdn生成的网络连接可以直接引入png格式的图片，添加进各种网站配置文件当中
+自建网站一般都通过调用图片的形式修改网站鼠标样式  
+通过cdn生成的网络连接可以直接引入png格式的图片，添加进各种网站配置文件当中  
 
 > 测试通过 [`Hexo`](https://hexo.io/) 驱动 [`yun`](https://github.com/YunYouJun/hexo-theme-yun) 主题配置
 
@@ -81,7 +82,10 @@ https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow/LikeyArrow/Size-尺寸[ligh
 
 #### style-kuma
 
-为Kuuhaku私人订制了属于他的风格配色鼠标方案  全透明+阴影形式的default样式以及适应网站配色的黄绿色link样式  因为**懒**，只更改这两项  （我可没说到底是谁懒）
+为Kuuhaku私人订制了属于他的风格配色鼠标方案  
+全透明+阴影形式的default样式以及适应网站配色的黄绿色link样式  
+因为**懒**，只更改这两项  
+（我可没说到底是谁懒）
 
 ```bash
 # default
@@ -92,7 +96,8 @@ https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow/LikeyArrow-style-kuma/Link.
 https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow/LikeyArrow-style-kuma/Handwriting.png
 ```
 
-> 阴影不透明度设置成60，祝你门门都及格 —— Like  那我谢谢你 —— Kuuhaku
+> 阴影不透明度设置成60，祝你门门都及格 —— Like  
+> 那我谢谢你 —— Kuuhaku
 
 ## 标准设计参数
 
