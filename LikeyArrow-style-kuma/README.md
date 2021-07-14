@@ -41,14 +41,16 @@
     <img alt="Deafault_kuma" src="/LikeyArrow-style-kuma/Preview/Default.png" width="40">
     Deafault
 </p>
+
 ```Bash
 https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow/LikeyArrow/Size-normal/Default.png
 ```
 
 <p>
-    <img alt="Link_kuma" src="LikeyArrow-style-kuma/Preview/Link.png" width="40">
+    <img alt="Link_kuma" src="/LikeyArrow-style-kuma/Preview/Link.png" width="40">
     Link
 </p>
+
 ```Bash
 https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow/LikeyArrow/Size-normal/Link.png
 ```
@@ -57,6 +59,7 @@ https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow/LikeyArrow/Size-normal/Link
     <img alt="IBeam_kuma" src="/LikeyArrow-style-kuma/Preview/IBeam.png" width="44">
     IBeam
 </p>
+
 ```Bash
 https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow/LikeyArrow/Size-normal/IBeam.png
 ```
@@ -66,6 +69,7 @@ https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow/LikeyArrow/Size-normal/IBea
     Handwriting
 
 </p>
+
 ```Bash
 https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow/LikeyArrow/Size-normal/Handwriting.png
 ```
