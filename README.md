@@ -12,7 +12,7 @@
 
 <p align="center">
   <span>实际应用：</span>
-  <a href="https://lyrikp.art/">Like‘s blog</a> [style-like] |
+  <a href="https://lyrikp.art/">Like‘s blog【维修中】</a> [style-like] |
   <a href="https://kuuhaku.top/">Kuuhaku'blog</a> [style-kuma]
 </p>
 
@@ -46,16 +46,16 @@ https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow/LikeyArrow/Size-尺寸[ligh
 - [x] Zoomin 放大
 - [x] Zoomout 缩小
 - [x] Handwriting 手写
-- [ ] IBeam 选定文本
+- [x] IBeam 选定文本
 
 ----
 
-- [ ] Resize 窗口拉伸
-  - [ ] SizeNS 上下拉伸
-  - [ ] SizeEW 左右拉伸
-  - [ ] SizeNESW 左下右上
-  - [ ] SizeNWSE 左上右下
-  - [ ] SizeAll 全方位
+- [x] Resize 窗口拉伸
+  - [x] Size1 上下拉伸
+  - [x] Size2 左右拉伸
+  - [x] Size3 左下右上
+  - [x] Size4 左上右下
+  - [x] Resize 全方位
 - [ ] Copy 复制
 - [ ] Cut 剪贴
 - [ ] Help 帮助事项
@@ -97,14 +97,15 @@ https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow/LikeyArrow-style-kuma/Handw
 ```
 
 > 阴影不透明度设置成60，祝你门门都及格 —— Like  
-> 那我谢谢你 —— Kuuhaku
+> 那我他谢谢你 —— Kuuhaku
 
 ## 标准设计参数
 
 - Size: 
   - light 25×25px
-  - normal 37×37px
+  - normal 30×30px
   - blod 45×45px
+  - 功能键 +5px/10px
 - 透明度规范: 90/80/74/50%
 - 线条规范: 9/7/4px
 - color: #2c2c2c #fff #fc5555 #f8a4a4
