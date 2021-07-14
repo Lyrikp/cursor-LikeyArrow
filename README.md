@@ -68,7 +68,7 @@ https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow/LikeyArrow/Size-尺寸[ligh
 ## 待办事项
 
 - [x] 基础网站搭建可用 `.png` 样式
-- [ ] `.png` 全格式绘制
+- [ ] `.png` 全格式绘制 12/19
 - [ ] `.cur` 格式绘制
 - [ ] 投影差分风格
 - [ ] 颜色差分风格
@@ -82,22 +82,15 @@ https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow/LikeyArrow/Size-尺寸[ligh
 
 #### style-kuma
 
-为Kuuhaku私人订制了属于他的风格配色鼠标方案  
-全透明+阴影形式的default样式以及适应网站配色的黄绿色link样式  
-因为**懒**，只更改这两项  
-（我可没说到底是谁懒）
-
-```bash
-# default
-https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow/LikeyArrow-style-kuma/Default.png
-# Link
-https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow/LikeyArrow-style-kuma/Link.png
-# Handwriting
-https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow/LikeyArrow-style-kuma/Handwriting.png
-```
-
 > 阴影不透明度设置成60，祝你门门都及格 —— Like  
-> 那我他谢谢你 —— Kuuhaku
+> 那我谢谢你 —— Kuuhaku
+
+为Kuuhaku私人订制了属于他的风格配色指针方案  
+全透明+阴影形式的default样式以及适应网站配色的 **<font color=#819ff7>蔓长春花蓝</font>** link样式  
+因为**懒**，只添加了4项样式  
+<font size=1>我可没说是谁懒</font>  
+
+> **详情参见 [style-kuma](/LikeyArrow-style-kuma)**  
 
 ## 标准设计参数
 
@@ -108,4 +101,4 @@ https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow/LikeyArrow-style-kuma/Handw
   - 功能键 +5px/10px
 - 透明度规范: 90/80/74/50%
 - 线条规范: 9/7/4px
-- color: #2c2c2c #fff #fc5555 #f8a4a4
+- color: **<font color=#2C2C2C>#2c2c2c</font>**  **<font color=#ffffff>#ffffff </font>**  **<font color=#fc5555>#fc5555</font>**  **<font color=#f8a4a4>#f8a4a4</font>**
