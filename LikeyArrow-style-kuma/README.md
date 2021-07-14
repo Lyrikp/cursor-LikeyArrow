@@ -43,7 +43,7 @@
 </p>
 
 ```Bash
-https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow/LikeyArrow/Size-normal/Default.png
+https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow@0.7.5/LikeyArrow-style-kuma/Default.png
 ```
 
 <p>
@@ -52,7 +52,7 @@ https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow/LikeyArrow/Size-normal/Defa
 </p>
 
 ```Bash
-https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow/LikeyArrow/Size-normal/Link.png
+https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow@0.7.5/LikeyArrow-style-kuma/Link.png
 ```
 
 <p>
@@ -61,7 +61,7 @@ https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow/LikeyArrow/Size-normal/Link
 </p>
 
 ```Bash
-https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow/LikeyArrow/Size-normal/IBeam.png
+https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow@0.7.5/LikeyArrow-style-kuma/IBeam.png
 ```
 
 <p>
@@ -71,5 +71,5 @@ https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow/LikeyArrow/Size-normal/IBea
 </p>
 
 ```Bash
-https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow/LikeyArrow/Size-normal/Handwriting.png
+https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow@0.7.5/LikeyArrow-style-kuma/Handwriting.png
 ```
