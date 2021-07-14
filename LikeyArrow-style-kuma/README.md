@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="LikeyArrow" src="/Preview/Default.png" width="128">
+  <img alt="Default_kuma" src="/LikeyArrow-style-kuma/Preview/Default.png" width="128">
 </p>
 
 <p align="center">Style-Kuma!</p>
@@ -38,7 +38,7 @@
 ## 变身┗|｀O′|┛ KUMA~~！
 
 <p>
-    <img alt="Deafault_kuma" src="/Preview/Default.png" width="40">
+    <img alt="Deafault_kuma" src="/LikeyArrow-style-kuma/Preview/Default.png" width="40">
     Deafault
 </p>
 ```Bash
@@ -46,7 +46,7 @@ https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow/LikeyArrow/Size-normal/Defa
 ```
 
 <p>
-    <img alt="Link_kuma" src="/Preview/Link.png" width="40">
+    <img alt="Link_kuma" src="LikeyArrow-style-kuma/Preview/Link.png" width="40">
     Link
 </p>
 ```Bash
@@ -54,7 +54,7 @@ https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow/LikeyArrow/Size-normal/Link
 ```
 
 <p>
-    <img alt="IBeam_kuma" src="/Preview/IBeam.png" width="44">
+    <img alt="IBeam_kuma" src="/LikeyArrow-style-kuma/Preview/IBeam.png" width="44">
     IBeam
 </p>
 ```Bash
@@ -62,7 +62,7 @@ https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow/LikeyArrow/Size-normal/IBea
 ```
 
 <p>
-    <img alt="Handwriting_kuma" src="/Preview/Handwriting.png" width="40">
+    <img alt="Handwriting_kuma" src="/LikeyArrow-style-kuma/Preview/Handwriting.png" width="40">
     Handwriting
 
 </p>
