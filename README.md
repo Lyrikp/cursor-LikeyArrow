@@ -12,7 +12,7 @@
 
 <p align="center">
   <span>实际应用：</span>
-  <a href="https://lyrikp.art/">Like‘s blog【维修中】</a> [style-like] |
+  <a href="https://lyrikp.art/">Like‘s blog</a> [style-like] |
   <a href="https://kuuhaku.top/">Kuuhaku'blog</a> [style-kuma]
 </p>
 
