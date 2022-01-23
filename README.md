@@ -68,8 +68,7 @@ https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow/LikeyArrow/Size-尺寸[ligh
 ## 待办事项
 
 - [x] 基础网站搭建可用 `.png` 样式
-- [ ] `.png` 全格式绘制 12/19
-- [ ] `.cur` 格式绘制
+- [x] `.cur` 格式绘制
 - [ ] 投影差分风格
 - [ ] 颜色差分风格
 - [ ] 猫咪差分风格

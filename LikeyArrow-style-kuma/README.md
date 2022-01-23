@@ -20,7 +20,6 @@
 - [x] Default 默认
 - [x] Link 点击链接
 - [x] IBeam 选定文本
-- [x] Handwriting 手写
 
 ## 设计参数
 
@@ -43,7 +42,7 @@
 </p>
 
 ```Bash
-https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow@0.7.5/LikeyArrow-style-kuma/Default.png
+https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow@0.7.5/LikeyArrow-style-kuma/Default.cur
 ```
 
 <p>
@@ -52,7 +51,7 @@ https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow@0.7.5/LikeyArrow-style-kuma
 </p>
 
 ```Bash
-https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow@0.7.5/LikeyArrow-style-kuma/Link.png
+https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow@0.7.5/LikeyArrow-style-kuma/Link.cur
 ```
 
 <p>
@@ -61,14 +60,5 @@ https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow@0.7.5/LikeyArrow-style-kuma
 </p>
 
 ```Bash
-https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow@0.7.5/LikeyArrow-style-kuma/IBeam.png
-```
-
-<p>
-    <img alt="Handwriting_kuma" src="https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow@0.7.5/LikeyArrow-style-kuma/Preview/Handwriting.png" width="40">
-    Handwriting
-</p>
-
-```Bash
-https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow@0.7.5/LikeyArrow-style-kuma/Handwriting.png
+https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow@0.7.5/LikeyArrow-style-kuma/IBeam.cur
 ```
