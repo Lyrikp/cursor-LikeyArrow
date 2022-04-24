@@ -4,9 +4,7 @@
 <p align="center">一款「简约」「透明」「泛用」的隐式可爱替换鼠标ฅ^. .^ฅ</p>
 <p align="center">I think here should be some English but I forget how to spell fanyongxing</p>
 
-为Lyrikp.art自建网站绘制的一款简单、不透明度、泛用性的替换鼠标  
-
-> 所以不介意的话请时不时来关注一下我的网站 [lyrikp.art](lyrikp.art)
+为Lyrikp.art自建网站绘制的一款简单、不透明度、泛用性的替换鼠标
 
 全部采用 `.cur` 标准 windows 光标格式进行绘制，有多种风格可以选择
 
@@ -42,9 +40,10 @@
 ## 开始使用
 
 <p>
-  <img alt="LikeyArrow" src="/LikeyArrow-default/Preview/default.png" width="40">
+  <img alt="LikeyArrow" src="/LikeyArrow-default/Preview/Default.png" width="40">
   Deafult
 </p>
+
 
 
 ```bash

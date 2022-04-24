@@ -6,7 +6,7 @@
 
 为Lyrikp.art自建网站绘制的一款简单、不透明度、泛用性的替换鼠标  
 
-> 所以不介意的话请时不时来关注一下我的网站 [lyrikp.art](lyrikp.art)
+> 不介意的话请时不时来关注一下我的网站 [lyrikp.art](lyrikp.art)
 
 全部采用 `.cur` 标准 windows 光标格式进行绘制，有多种风格可以选择
 
@@ -14,15 +14,15 @@
   <span>详细说明: </span>
   <a href="https://lyrikp.art/2021/07/23/Design-LikeyArrow/">LikeyArrow</a> [style-like]
 </p>
-
 <p align="center">
   <span>实际应用：</span>
   <a href="https://lyrikp.art/">Likey‘s blog</a> [style-like] |
   <a href="https://kuuhaku.top/">熊之记事本</a> [style-kuma]
 </p>
 <p align="center">
-  <img alt="LikeyArrow" src="/Preview.png" width="400">
+  <img alt="LikeyArrow" src="/Previewall.png" width="500">
 </p>
+
 
 ## 快速使用
 
@@ -63,7 +63,10 @@ https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow/LikeyArrow/LikeyArrow-defau
 
 <p align="center">
   <img alt="LikeyArrow" src="/LikeyArrow-style-kuma/Preview/preview.png" width="400">
-</p>
+</p>  
+
+
+
 ## 光标样式
 
 - [x] Default 默认
@@ -73,9 +76,6 @@ https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow/LikeyArrow/LikeyArrow-defau
 - [x] Zoomout 缩小
 - [x] Handwriting 手写
 - [x] IBeam 选定文本
-
-----
-
 - [x] Resize 窗口拉伸
   - [x] Size1 上下拉伸
   - [x] Size2 左右拉伸
