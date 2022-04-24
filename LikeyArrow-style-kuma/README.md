@@ -42,7 +42,7 @@
 
 
 <p>
-    <img alt="Deafault_kuma" src="/Preview/Default.png" width="40">
+    <img alt="Deafault_kuma" src="/LikeyArrow-style-kuma/Preview/Default.png" width="40">
     Deafault
 </p>
 
@@ -53,7 +53,7 @@ https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow/LikeyArrow-style-kuma/Defau
 ```
 
 <p>
-    <img alt="Link_kuma" src="/Preview/Link.png" width="40">
+    <img alt="Link_kuma" src="/LikeyArrow-style-kuma/Preview/Link.png" width="40">
     Link
 </p>
 
@@ -64,27 +64,30 @@ https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow/LikeyArrow-style-kuma/Link.
 ```
 
 <p>
-    <img alt="IBeam_kuma" src="https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow@0.7.5/LikeyArrow-style-kuma/Preview/IBeam.png" width="44">
+    <img alt="IBeam_kuma" src="/LikeyArrow-style-kuma/Preview/IBeam.png" width="40">
     IBeam
 </p>
+
 
 ```Bash
 https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow/LikeyArrow-style-kuma/IBeam.cur
 ```
 
 <p>
-    <img alt="Resize_kuma" src="https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow/LikeyArrow-style-kuma/Preview/Resize.png" width="40">
+    <img alt="Resize_kuma" src="/LikeyArrow-style-kuma/Preview/Resize.png" width="40">
     Resize
 </p>
+
 
 ```html
 https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow/LikeyArrow-style-kuma/Resize.cur
 ```
 
 <p>
-    <img alt="Resize_kuma" src="https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow/LikeyArrow-style-kuma/Preview/Unavailable.png" width="40">
+    <img alt="Resize_kuma" src="/LikeyArrow-style-kuma/Preview/Unavailable.png" width="40">
     Unavailable
 </p>
+
 
 ```html
 https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow/LikeyArrow-style-kuma/Unavailable.cur
