@@ -20,6 +20,9 @@
   <a href="https://lyrikp.art/">Likey‘s blog</a> [style-like] |
   <a href="https://kuuhaku.top/">熊之记事本</a> [style-kuma]
 </p>
+<p align="center">
+  <img alt="LikeyArrow" src="/Preview.png" width="400">
+</p>
 
 ## 快速使用
 
@@ -61,7 +64,6 @@ https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow/LikeyArrow/LikeyArrow-defau
 <p align="center">
   <img alt="LikeyArrow" src="/LikeyArrow-style-kuma/Preview/preview.png" width="400">
 </p>
-
 ## 光标样式
 
 - [x] Default 默认
