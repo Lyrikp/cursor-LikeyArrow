@@ -1,44 +1,68 @@
 <p align="center">
   <img alt="LikeyArrow" src="/Arrow.png" width="128">
 </p>
-
-<p align="center">一款简约风格、不透明度、泛用的隐式可爱替换鼠标ฅ^. .^ฅ</p>
+<p align="center">一款「简约」「透明」「泛用」的隐式可爱替换鼠标ฅ^. .^ฅ</p>
 <p align="center">I think here should be some English but I forget how to spell fanyongxing</p>
 
 为Lyrikp.art自建网站绘制的一款简单、不透明度、泛用性的替换鼠标  
-分别有不同的大小样式，以匹配不同环境下的需求。请按照自己的需求选择3种样式大小
 
 > 所以不介意的话请时不时来关注一下我的网站 [lyrikp.art](lyrikp.art)
 
+全部采用 `.cur` 标准 windows 光标格式进行绘制，有多种风格可以选择
+
+<p align="center">
+  <span>详细说明: </span>
+  <a href="https://lyrikp.art/2021/07/23/Design-LikeyArrow/">LikeyArrow</a> [style-like]
+</p>
+
 <p align="center">
   <span>实际应用：</span>
-  <a href="https://lyrikp.art/">Like‘s blog</a> [style-like] |
-  <a href="https://kuuhaku.top/">Kuuhaku'blog</a> [style-kuma]
+  <a href="https://lyrikp.art/">Likey‘s blog</a> [style-like] |
+  <a href="https://kuuhaku.top/">熊之记事本</a> [style-kuma]
 </p>
 
 ## 快速使用
 
-**目前仅支持链接引用图片的形式进行使用**
+**目前支持 链接引用图片/手动加载cur格式 的形式进行使用**
 
 自建网站一般都通过调用图片的形式修改网站鼠标样式  
 通过cdn生成的网络连接可以直接引入png格式的图片，添加进各种网站配置文件当中  
 
-> 测试通过 [`Hexo`](https://hexo.io/) 驱动 [`yun`](https://github.com/YunYouJun/hexo-theme-yun) 主题配置
+> - [x] 测试通过 Windows 光标样式配置
+> - [x] 测试通过 [Hexo](https://hexo.io/) 驱动 [yun](https://github.com/YunYouJun/hexo-theme-yun) 主题
+>
+> - [x] 测试通过 [Hexo](https://hexo.io/) 驱动 [Volantis](https://github.com/volantis-x/hexo-theme-volantis) 主题
 
 使用链接示例
 
 ```bash
 # 默认大小 默认鼠标样式/Size normal Default
-https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow/LikeyArrow/Size-normal/Default.png
+https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow/LikeyArrow/LikeyArrow-default/Default.cur
+
+# https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow/LikeyArrow/风格样式/光标种类.cur
 ```
 
-其他样式的链接格式
+[cdn全部预览](https://www.jsdelivr.com/package/gh/Lyrikp/cursor-LikeyArrow)
 
-```bash
-https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow/LikeyArrow/Size-尺寸[light/normal/blod]/鼠标样式[Default/Link/Unavailable/...].png
-```
+[默认Deafult 样式预览](https://www.jsdelivr.com/package/gh/Lyrikp/cursor-LikeyArrow?path=LikeyArrow-default%2FPreview)
 
-## 指针样式
+<p align="center">
+  <img alt="LikeyArrow" src="/LikeyArrow-default/Preview/preview.png" width="400">
+</p>
+
+[Style-like 样式预览](https://www.jsdelivr.com/package/gh/Lyrikp/cursor-LikeyArrow?path=LikeyArrow-style-like%2FPreview)
+
+<p align="center">
+  <img alt="LikeyArrow" src="/LikeyArrow-style-like/Preview/preview.png" width="400">
+</p>
+
+[熊熊kuma 样式预览](https://www.jsdelivr.com/package/gh/Lyrikp/cursor-LikeyArrow?path=LikeyArrow-style-kuma%2FPreview)
+
+<p align="center">
+  <img alt="LikeyArrow" src="/LikeyArrow-style-kuma/Preview/preview.png" width="400">
+</p>
+
+## 光标样式
 
 - [x] Default 默认
 - [x] Link 点击链接
@@ -69,8 +93,8 @@ https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow/LikeyArrow/Size-尺寸[ligh
 
 - [x] 基础网站搭建可用 `.png` 样式
 - [x] `.cur` 格式绘制
-- [ ] 投影差分风格
-- [ ] 颜色差分风格
+- [x] 投影差分风格
+- [x] 颜色差分风格
 - [ ] 猫咪差分风格
 - [ ] 动态样式绘制
 - [ ] 切换动画设置
@@ -86,18 +110,16 @@ https://cdn.jsdelivr.net/gh/Lyrikp/cursor-LikeyArrow/LikeyArrow/Size-尺寸[ligh
 
 为Kuuhaku私人订制了属于他的风格配色指针方案  
 全透明+阴影形式的default样式以及适应网站配色的 **<font color=#819ff7>蔓长春花蓝</font>** link样式  
-因为**懒**，只添加了4项样式  
+前期因为**懒**，只添加了4项样式  
 <font size=1>我可没说是谁懒</font>  
+
+现在已经完成了基本样式的绘制了w
 
 > **详情参见 [style-kuma](/LikeyArrow-style-kuma)**  
 
 ## 标准设计参数
 
-- Size: 
-  - light 25×25px
-  - normal 30×30px
-  - blod 45×45px
-  - 功能键 +5px/10px
+- Size: 32×32 px
 - 透明度规范: 90/80/74/50%
 - 线条规范: 9/7/4px
 - color: **<font color=#2C2C2C>#2c2c2c</font>**  **<font color=#ffffff>#ffffff </font>**  **<font color=#fc5555>#fc5555</font>**  **<font color=#f8a4a4>#f8a4a4</font>**
